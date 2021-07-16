@@ -1,0 +1,8 @@
+jsonschema
+pronto
+numpy
+requests
+matplotlib
+jupyter
+sphinx
+sphinx-rtd-theme
